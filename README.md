@@ -21,7 +21,7 @@ cd ~/.config && mkdir nvim
 - Create a file called init.vim
 
 after all that then you can just run the following command in vim to install all the plugins
-- :PlugInstall
+> :PlugInstall
 
 I'm pretty sure that's it and you won't have to do anything more P.s you can totally ignore all of this 😁
 
